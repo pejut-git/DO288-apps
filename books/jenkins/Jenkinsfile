@@ -13,7 +13,7 @@ pipeline {
         //TODO: Edit these vars as per your env
         DEV_PROJECT = "pejut-books-dev"
         STAGE_PROJECT = "pejut-books-stage"
-        APP_GIT_URL = "https://github.com/pejut/DO288-apps"
+        APP_GIT_URL = "https://github.com/pejut-git/DO288-apps"
         NEXUS_SERVER = "nexus-common.apps.eu45.prod.nextcle.com"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
